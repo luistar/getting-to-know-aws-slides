@@ -9,4 +9,4 @@ The slides feature a very detailed walkthrough. You'll find the necessary materi
 * [serverless-webapp](https://github.com/luistar/serverless-webapp).
 
 ## Template
-The beamer template used in this slides is [Metropolis](https://github.com/matze/mtheme).
+The beamer template used in these slides is [Metropolis](https://github.com/matze/mtheme).
